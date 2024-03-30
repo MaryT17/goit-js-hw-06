@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/goit-js-hw-06.git"
+    "url": "git+https://github.com/maryt17/goit-js-hw-06.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/goit-js-hw-06/issues"
+    "url": "https://github.com/maryt17/goit-js-hw-06/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
